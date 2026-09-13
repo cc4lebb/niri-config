@@ -272,7 +272,7 @@ layout {
 // spawn-at-startup "waybar"
 
 //wallpaper 
-spawn-sh-at-startup "swaybg -i ~/Downloads/e36_wallpaper.jpg"
+// spawn-sh-at-startup "swaybg -i ~/Downloads/e36_wallpaper.jpg"
 
 //noctalia (for taskbar and so on)
 spawn-sh-at-startup "noctalia"
